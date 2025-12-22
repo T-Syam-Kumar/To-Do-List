@@ -17,20 +17,12 @@ This To-Do List app allows users to:
 - Delete tasks ❌  
 - See tasks dynamically update without reloading  
 
-It’s a great beginner project that showcases how to build interactive UI elements using vanilla JavaScript, styled with HTML and CSS. :contentReference[oaicite:3]{index=3}
-
+It’s a great beginner project that showcases how to build interactive UI elements using vanilla JavaScript, styled with HTML and CSS. 
 ## 🛠 Technologies Used
 
 - **HTML5** – Structure of the web page  
 - **CSS3** – Styling and layout  
-- **JavaScript** – App logic and DOM manipulation :contentReference[oaicite:4]{index=4}
-
-## 📁 File Structure
-
-📦To-Do-List
-┣ 📜index.html # Markup of the app
-┣ 📜style.css # Styling for layout & visuals
-┗ 📜script.js # JavaScript logic for task functionality
+- **JavaScript** – App logic and DOM manipulation 
 
 
 ## 🚀 Features
@@ -38,5 +30,4 @@ It’s a great beginner project that showcases how to build interactive UI eleme
 - Easily **add tasks** using the input form  
 - **Mark tasks as done** by clicking the checkbox/icon  
 - **Delete tasks** with a single click  
-- Designed with simplicity and usability in mind :contentReference[oaicite:5]{index=5}
-
+- Designed with simplicity and usability in mind 
