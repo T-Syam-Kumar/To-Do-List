@@ -6,7 +6,7 @@ This project demonstrates core front-end development skills like DOM manipulatio
 ## 🔗 Live Demo
 
 Try it live here:  
-👉 https://t-syam-kumar.github.io/To-Do-List/ :contentReference[oaicite:2]{index=2}
+👉 https://t-syam-kumar.github.io/To-Do-List/ 
 
 ## 🧠 About The Project
 
