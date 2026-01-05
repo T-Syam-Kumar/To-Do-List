@@ -22,7 +22,7 @@ It’s a great beginner project that showcases how to build interactive UI eleme
 
 - **HTML5** – Structure of the web page  
 - **CSS3** – Styling and layout  
-- **JavaScript** – App logic and DOM manipulation 
+- **JavaScript** – App logic and DOM manipulation   
 
 
 ## 🚀 Features
