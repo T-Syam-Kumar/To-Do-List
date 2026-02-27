@@ -9,7 +9,7 @@ Try it live here:
 👉 https://t-syam-kumar.github.io/To-Do-List/  
 
 ## 🧠 About The Project
-
+ 
 This To-Do List app allows users to:
 
 - Add new tasks 👇  
