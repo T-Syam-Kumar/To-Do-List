@@ -13,7 +13,7 @@ Try it live here:
 This To-Do List app allows users to:
 
 - Add new tasks 👇  
-- Mark tasks as completed ✔️  
+- Mark tasks as completed ✔️   
 - Delete tasks ❌  
 - See tasks dynamically update without reloading  
 
