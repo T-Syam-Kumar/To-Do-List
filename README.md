@@ -3,7 +3,7 @@
 A simple and interactive **To-Do List web application** built using **HTML, CSS, and JavaScript**.  
 This project demonstrates core front-end development skills like DOM manipulation, event handling, and user interaction with a clean, responsive interface. 
 
-## 🔗 Live Demo 
+## 🔗 Live Demo  
 
 Try it live here:  
 👉 https://t-syam-kumar.github.io/To-Do-List/  
