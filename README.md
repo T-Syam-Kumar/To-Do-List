@@ -5,20 +5,19 @@ This project demonstrates core front-end development skills like DOM manipulatio
 
 ## 🔗 Live Demo  
 
-Try it live here:     
-👉 https://t-syam-kumar.github.io/To-Do-List/  
+Try it live here: https://t-syam-kumar.github.io/To-Do-List/  
 
-## 🧠 About The Project
+##  About The Project
  
 This To-Do List app allows users to:
 
-- Add new tasks 👇  
-- Mark tasks as completed ✔️   
-- Delete tasks ❌  
+- Add new tasks   
+- Mark tasks as completed    
+- Delete tasks   
 - See tasks dynamically update without reloading  
 
 It’s a great beginner project that showcases how to build interactive UI elements using vanilla JavaScript, styled with HTML and CSS. 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **HTML5** – Structure of the web page  
 - **CSS3** – Styling and layout  
